@@ -4,7 +4,7 @@
 • User input handling and interaction
 • Sorting and filtering data based on various criteria
 • Managing relationships between objects (e.g., classes, students, subjects)
-• Basic file management and error handling (if applicable)
+• Error handling 
 
 
 
