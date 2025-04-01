@@ -16,9 +16,6 @@ public class Student {
         this.subjects = subjects;
     }
 
-    public String getClazzName() {
-        return clazzName;
-    }
 
     public String getName() {
         return name;

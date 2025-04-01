@@ -11,15 +11,9 @@ public class Teacher {
         this.subject = subject;
     }
 
-    public String getClazzName() {
-        return clazzName;
-    }
 
-    public void setClazzName(String clazzName){
+    public void setClazzName(String clazzName) {
         this.clazzName = clazzName;
     }
 
-    public List<Subject> getSubject() {
-        return subject;
-    }
 }

@@ -3,7 +3,6 @@ package org.example.classes.entities;
 import java.util.*;
 
 public class Clazz {
-    Scanner scanner = new Scanner(System.in);
 
     private final String name;
     private List<Student> students;
@@ -23,10 +22,6 @@ public class Clazz {
 
     public List<Student> getStudents() {
         return students;
-    }
-
-    public Teacher getHeadTeacher() {
-        return headTeacher;
     }
 
     public List<Subject> getSubjects() {
